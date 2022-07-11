@@ -1,0 +1,23 @@
+Body{
+   background: greenyellow;
+}
+
+h1,h2,h3{
+  
+    text-align: center; 
+   color: blueviolet;
+   font-family: 'Courier New', Courier, monospace;
+   
+}
+
+p {
+    color:green;   
+    font-size: x-large;
+    text-align: center;
+    font-size: 26px;
+}
+
+.men{
+    font-size: 25px;
+    color: blueviolet;
+}
